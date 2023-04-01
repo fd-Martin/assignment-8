@@ -1,0 +1,40 @@
+[
+    {
+    "id": "1",
+    "authorName": "Mr. Kalam",
+    "blogTitle": "What Makes a Good Blog Name?",
+    "img": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "authorImage":"https://www.w3schools.com/howto/img_avatar.png",
+    "readTime":10,
+    "publishDate":"Jan 14"
+    },
+    {
+    "id": "2",
+    "authorName": "Mr. Helal",
+    "blogTitle": "How to Come Up With a Blog Name",
+    "img": "https://images.unsplash.com/photo-1491466424936-e304919aada7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+    "authorImage":"https://www.w3schools.com/howto/img_avatar2.png",
+    "readTime":5,
+    "publishDate":"Feb 14"
+    },
+    {
+    "id": "3",
+    "authorName": "Mr. Dulal",
+    "blogTitle": "Finding Blog Name Ideas",
+    "img": "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "authorImage":"https://www.w3schools.com/w3images/avatar6.png",
+    "readTime":8,
+    "publishDate":"Mar 14"
+    },
+    {
+    "id": "4",
+    "authorName": "Mr. alal",
+    "blogTitle": "10 Blog Name Generators for 2023",
+    "img": "https://images.unsplash.com/photo-1491466424936-e304919aada7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+    "authorImage":"https://www.w3schools.com/w3images/avatar5.png",
+    "readTime":15,
+    "publishDate":"Apr 14"
+    }
+]
+
+
